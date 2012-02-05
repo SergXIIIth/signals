@@ -1,12 +1,17 @@
 # Сигнализация для дома, магазина, офиса
 
-В случае обнаружения движения в охраняемом помещении, 
+В случае обнаружения движения в охраняемом помещении,
+
 сигнализация оповещает вас письмом на email и звонком на мобильный телефон.
 
 ## Железо
 Железо, аппаратная часть, согнализации реализовани на платформе Arduino.
+
 Датчики движения - стандертные для Arduino.
+
 Для соединения с Arduino с интернетом используется Ethernet Shield.
+
 Принципиальная электрическая схема в файле [shema](https://github.com/SergXIIIth/signals/shema)
 
-Программа для Arduino в файле [arduino.ino](https://github.com/SergXIIIth/signals/arduino.ino)
+
+Программа для Arduino в файле [arduino.ino](https://github.com/SergXIIIth/signals/blob/master/arduino.ino)
