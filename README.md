@@ -12,6 +12,6 @@
 Для соединения Arduino с интернетом используется Ethernet shield w5100 [купить](http://www.ebay.com/sch/?_kw=Ethernet%20shield%20W5100&_clu=2&_fcid=56&_localstpos=&_sc=1&_sop=15&_stpos=&gbr=1).
 
 
-Принципиальная электрическая схема в файле [shema](https://github.com/SergXIIIth/signals/shema)
+Принципиальная электрическая схема в файле [shema](https://github.com/SergXIIIth/signals/blob/master/shema.png)
 
 Программа для Arduino в файле [arduino.ino](https://github.com/SergXIIIth/signals/blob/master/arduino.ino)
