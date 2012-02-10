@@ -11,7 +11,7 @@
 Подробнее о сигнализации по [ссылке](http://makridenkov.ru/signals).
 
 ## Железо
-Железо, аппаратная часть, сигнализации реализовани на платформе Arduino UNO [купить](http://www.buyincoins.com/details/high-quality-arduino-uno-atmega328p-pu-module-atmega8u2-avr-usb-cable-board-product-10252.html).
+Железо, аппаратная часть, сигнализации реализованы на платформе Arduino UNO [купить](http://www.buyincoins.com/details/high-quality-arduino-uno-atmega328p-pu-module-atmega8u2-avr-usb-cable-board-product-10252.html).
 
 Датчики движения - стандартные для Arduino [купить](http://www.buyincoins.com/details/pyroelectric-infrared-pir-motion-sensor-detector-module-product-7078.html).
 
