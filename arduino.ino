@@ -27,11 +27,11 @@ int sensor_previous[sensorPinsSize];
 EthernetClient client;
 
 void debug(String mes){
-	// Serial.print(mes);
+	Serial.print(mes);
 }
 
 void debugln(String mes){
-	// Serial.println(mes);
+	Serial.println(mes);
 }
 
 void wait_disconnect(){
@@ -77,7 +77,7 @@ void send_connect(){
 }
 
 void setup() {
-	// Serial.begin(9600);  
+	Serial.begin(9600);  
 	
 	// Sensors
 	int i;
