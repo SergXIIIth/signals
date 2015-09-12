@@ -6,9 +6,9 @@
 сигнализация оповещает вас письмом на email и звонком на мобильный телефон.
 
 Управление сигнализацией осуществляется с сайта 
-[makridenkov.ru/signals](http://makridenkov.ru/signals).
+[makridenkov.ru/signals](http://signals.makridenkov.com/).
 
-Подробнее о сигнализации по [ссылке](http://makridenkov.ru/signals).
+Подробнее о сигнализации по [ссылке](http://signals.makridenkov.com/).
 
 ## Железо
 Железо, аппаратная часть, сигнализации реализованы на платформе Arduino UNO [купить](http://www.buyincoins.com/details/high-quality-arduino-uno-atmega328p-pu-module-atmega8u2-avr-usb-cable-board-product-10252.html).
