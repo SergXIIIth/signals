@@ -11,8 +11,8 @@
 #include <Ethernet.h>
 
 byte mac[] = { 0x90, 0xA2, 0xDA, 0x00, 0x59, 0x67 };  
-const char serverName[] = "signals.makridenkov.ru";
-const String TOKEN = <your secret key from http://signals.makridenkov.ru/configs>;
+const char serverName[] = "signals.makridenkov.com";
+const String TOKEN = <your secret key from http://signals.makridenkov.com/configs>;
 // example -- const String TOKEN = "sdfdfikumimoxwereffffwi"
 
 
@@ -55,7 +55,7 @@ void send(String data) {
 		debug("Make a HTTP request '" + data + "' ... ");
 
 		client.println("GET /add/" + TOKEN + "/" + data + " HTTP/1.0");
-		client.println("HOST: signals.makridenkov.ru");
+		client.println("HOST: signals.makridenkov.com");
 		client.println();
 
 		debugln("ok");
